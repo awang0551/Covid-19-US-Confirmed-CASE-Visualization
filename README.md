@@ -1,2 +1,4 @@
-# Covid-19-US-Confirmed-CASE-Visualization
-Covid-19 US Confirmed CASE Visualization Update 12-8-2020 
+Coronavirus Visualizations
+Dataset from Kaggle https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+Visualize the Coronavirus with animated Choropleth maps
+fouced on US comfirmed cases
